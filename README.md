@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Construo sistemas que <b>eliminam trabalho manual</b>, conectam plataformas e transformam dados operacionais em decisão.
+  Eu transformo processo manual em software que roda sozinho.
 </p>
 
 <p align="center">
@@ -28,15 +28,12 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor **autodidata** atuando na fronteira entre **operações e engenharia de software**. Trabalho como Assistente de Operações e estudo **Tecnologia em Recursos Humanos** — o que me dá uma vantagem incomum: entendo o problema de negócio *antes* de escrever a primeira linha de código.
+**Transformo trabalho manual em sistema.** Desenvolvedor full stack autodidata, da operação à engenharia — construo plataformas, automações e ferramentas de IA que rodam sozinhas.
 
-Minha obsessão é **automação de ponta a ponta**: reduzir intervenção humana, aumentar confiabilidade e fazer dados operacionais virarem indicador acionável. Saí de planilhas e scripts para construir **plataformas multi-tenant, APIs REST versionadas, pipelines de dados e ferramentas de IA** — sempre com olhar para escalabilidade, segurança e observabilidade.
-
-- 🔭 Construindo **plataformas de operações/workforce** com Postgres, APIs REST e dashboards de KPI
-- 🤖 Desenvolvendo **agentes de IA e servidores MCP** para análise operacional assistida por LLM
-- 🧱 Aplicando **Clean Architecture, SOLID e Repository Pattern** em backend e mobile
-- 🔒 Com disciplina de **privacidade (LGPD)** e **segurança defensiva** desde o design
-- 🌱 Em evolução constante — trato cada projeto como produto, não como tarefa
+- 🔭 Plataformas multi-tenant com **Node.js + PostgreSQL** e dashboards de KPI
+- 🤖 Agentes de IA e **servidores MCP** para análise operacional via LLM
+- 🧱 **Clean Architecture, SOLID** e segurança/privacidade desde o design
+- ⚡ Foco: menos clique humano, mais confiabilidade
 
 ---
 
