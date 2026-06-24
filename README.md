@@ -73,7 +73,6 @@ Minha obsessão é **automação de ponta a ponta**: reduzir intervenção human
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LLMs](https://img.shields.io/badge/Local_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Servers-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 #### DevOps & Infra
@@ -112,7 +111,7 @@ Problema operacional  →  Modelagem de dados  →  API / Automação  →  Dash
 
 > 🤖 **Servidor MCP de Análise Operacional** — Ferramentas de IA (Model Context Protocol) que permitem consultar e diagnosticar dados operacionais via LLM, com schemas validados, modo mock e redação de PII embutida.
 
-> ⚙️ **Automações de Processos** — Workflows com **Google Apps Script, n8n e Webhooks** integrando planilhas, mensageria e sistemas internos para eliminar tarefas repetitivas.
+> ⚙️ **Automações de Processos** — Workflows com **Google Apps Script e Webhooks** integrando planilhas, mensageria e sistemas internos para eliminar tarefas repetitivas.
 
 > 📱 **Apps Mobile em Flutter** — Aplicações com **Clean Architecture, SOLID, Provider e GetIt**, persistência local em SQLite e foco em manutenibilidade.
 
